@@ -111,9 +111,37 @@ margin: 21px;
     border: none;
     margin: 10px 0;
 }
-.Our-Featured-Flower{
-width: 50%;
-padding: 30px 50px;
+.Our-Featured-Flower-shopping{
+    margin: 10px 50px ;
+    padding: 30px 30px;
     background-image: url(../Rectangle\ 9.png);
-    background-repeat:no-repeat ;
+    background-repeat:no-repeat;
+}
+.Our-Featured-Flower-shopping-text{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding: 100px 30px;
+}
+.footer-flower{
+   color: rgb(229, 84, 115); 
+   font-size: 30px;
+}
+.footer-shop{
+    color: white;
+    font-size: 30px;
+    margin: 10px 0;
+}
+.footer-shop1{
+    color: white;
+    margin-bottom: 10px;
+}
+.footer-shop2{
+    color: wheat;
+    margin-bottom: 10px;
 }
